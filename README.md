@@ -2,7 +2,7 @@
   
 ## Description
   
-d
+s
   
 ## Table of Contents
   
@@ -20,17 +20,17 @@ d
   
 ## Installation
   
-d
+a
   
 ## Usage
   
-d
+g
   
 ## License
   
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License: APACHE 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
-[GPL 3.0 License] (https://www.gnu.org/licenses/gpl-3.0)
+[APACHE 2.0 License](https://opensource.org/licenses/Apache-2.0)
   
 ## Contributing
   
@@ -38,10 +38,10 @@ d
   
 ## Tests
   
-d
+s
   
 ## Questions
   
 Github: d
   
-For additional questions please send and email to, d.
+For additional questions please send and email to, g.
