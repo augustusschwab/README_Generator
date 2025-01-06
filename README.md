@@ -1,12 +1,8 @@
-# Read Me Generator
-  
-
+# d
   
 ## Description
   
-An application to generate a read me file from various questions to the developer.
-  
-
+d
   
 ## Table of Contents
   
@@ -22,38 +18,29 @@ An application to generate a read me file from various questions to the develope
   
 - [Questions](#questions)
   
-
-  
 ## Installation
   
-By downloading the file package from github and running on the users own machine.
-  
-
+d
   
 ## Usage
   
-To generate a README.md file.
-  
-
+d
   
 ## License
   
-data.license
+
+
   
 ## Contributing
   
-undefined
-  
-
+d
   
 ## Tests
   
-There are currently no tests.
-  
-
+d
   
 ## Questions
   
-Github: gus@github.com
+Github: d
   
-For additional questions please contact send and email to, gus@gmail.com
+For additional questions please send and email to, d
