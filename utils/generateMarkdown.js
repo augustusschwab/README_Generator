@@ -51,6 +51,9 @@ function generateMarkdown(data) {
   \n## Questions
   \nGithub: ${data.github}
   \nFor additional questions please send and email to, ${data.email}.
+  \n
+  \n> [!NOTE]
+  \n>All code was written by Gus Schwab using the starter code provided in Module 07 of the U of U Software Development Bootcamp.
 `;
 }
 
