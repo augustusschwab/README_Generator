@@ -8,47 +8,54 @@ const questions = [
     {
         type:'input',
         name:'title',
-        message:'What is the project title?',
+        message:'What is your project\'s name?',
     },
     {
         type:'input',
         name:'description',
-        message:'What is the description of the project?',
+        message:'Please write a short description of your project.',
     },
     {
         type:'input',
         name:'installation',
-        message:'How is the application installed?',
+        message:'What command should be run to install dependencies?',
     },
     {
         type:'input',
         name:'usage',
-        message:'How is the application used?',
+        message:'What does the user need to know about using the repo?',
     },
     {
         type:'input',
-        name:'contribue',
-        message:'What are the guidelines for contributing?',
+        name:'contribute',
+        message:'What does the user need to know about contributing to the repo?',
     },
     {
         type:'input',
         name:'tests',
-        message:'Are there any tests and if so, how are they run?',
+        message:'What command should be run to run tests?',
     },
     {
         type:'input',
         name:'github',
-        message:'What is your github username?',
+        message:'What is your GitHub username?',
     },
     {
         type:'input',
         name:'email',
         message:'What is your email address?',
     },
+    {
+        type: 'checkbox',
+        message: 'What kind of license should your project have?',
+        name: 'license',
+        choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'], 
+    }
 ];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
+    console.log(data.license);
     fs.writeFile(fileName,generateMarkdown(data),(err) => err ? console.log(err) : console.log('Read me file created.'))
 }
 
