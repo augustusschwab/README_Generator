@@ -30,30 +30,30 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
   \n## Description
-  \n${data.description}
+  ${data.description}
   \n## Table of Contents
-  \n- [Installation](#installation)
-  \n- [Usage](#usage)
-  \n- [License](#license)
-  \n- [Contributing](#contributing)
-  \n- [Tests](#tests)
-  \n- [Questions](#questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
   \n## Installation
-  \n${data.installation}
+  ${data.installation}
   \n## Usage
-  \n${data.usage}
+  ${data.usage}
   \n## License
-  \n${renderLicenseSection(data.license)}
+  ${renderLicenseSection(data.license)}
   \n## Contributing
-  \n${data.contribute}
+  ${data.contribute}
   \n## Tests
-  \n${data.tests}
+  ${data.tests}
   \n## Questions
-  \nGithub: ${data.github}
-  \nFor additional questions please send and email to, ${data.email}.
+  Github: ${data.github}
+  For additional questions please send and email to, ${data.email}.
   \n
   \n> [!NOTE]
-  \n>All code was written by Gus Schwab using the starter code provided in Module 07 of the U of U Software Development Bootcamp.
+  >All code was written by Gus Schwab using the starter code provided in Module 07 of the U of U Software Development Bootcamp.
 `;
 }
 
