@@ -1,8 +1,8 @@
-# test
+# d
   
 ## Description
   
-test
+d
   
 ## Table of Contents
   
@@ -20,28 +20,28 @@ test
   
 ## Installation
   
-test
+d
   
 ## Usage
   
-test
+d
   
 ## License
   
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-[MIT License](https://opensource.org/licenses/MIT)
+[GPL 3.0 License] (https://www.gnu.org/licenses/gpl-3.0)
   
 ## Contributing
   
-test
+d
   
 ## Tests
   
-test
+d
   
 ## Questions
   
-Github: test
+Github: d
   
-For additional questions please send and email to, test.
+For additional questions please send and email to, d.
