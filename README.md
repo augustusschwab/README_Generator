@@ -1,8 +1,8 @@
-# GitHub README File Generator
+# test
   
 ## Description
   
-A script to generate a `README.mp` file for a GitHub repository.
+test
   
 ## Table of Contents
   
@@ -20,26 +20,27 @@ A script to generate a `README.mp` file for a GitHub repository.
   
 ## Installation
   
-To install dependencies run `npm install` followed by the dependency name. This application requires `inquirer` and `fs` packages.
+test
   
 ## Usage
   
-This application runs in the command line with `Node.js`. Node is needed on the users machine to generate the `README.mp` file. See the installation section for a the additional packages that are needed.
+test
   
 ## License
   
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  [MIT License](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\ 
+[MIT License](https://opensource.org/licenses/MIT)
   
 ## Contributing
   
-To contribute to this repository, please contact the repository owner via the email in the questions section.
+test
   
 ## Tests
   
-To run tests as the code is being modified simply run `node index.js` in the command line.
+test
   
 ## Questions
   
-Github: augustusschwab
+Github: test
   
-For additional questions please send and email to, augustusschwab@gmail.com.
+For additional questions please send and email to, test.
