@@ -1,7 +1,7 @@
 # GitHub README File Generator
   
 ## Description
-  A script to generate a `README.mp` file for a GitHub repository.
+  A script to generate a `README.mp` file for a GitHub repository. This README file was generated using this script.
   
 ## Table of Contents
   - [Installation](#installation)
@@ -18,9 +18,9 @@
   This application runs in the command line with `Node.js`. Node is needed on the users machine to generate the `README.mp` file. See the installation section for a the additional packages that are needed.
   
 ## License
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-[MIT License](https://opensource.org/licenses/MIT)
+[GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0)
   
 ## Contributing
   To contribute to this repository, please contact the repository owner via the email in the questions section.
@@ -30,7 +30,8 @@
   
 ## Questions
   Github: augustusschwab
-  For additional questions please send and email to, augustusschwab@gmail.com.
+  
+For additional questions please send and email to, augustusschwab@gmail.com.
   
 
   

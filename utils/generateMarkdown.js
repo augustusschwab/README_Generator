@@ -50,7 +50,7 @@ function generateMarkdown(data) {
   ${data.tests}
   \n## Questions
   Github: ${data.github}
-  For additional questions please send and email to, ${data.email}.
+  \nFor additional questions please send and email to, ${data.email}.
   \n
   \n> [!NOTE]
   >All code was written by Gus Schwab using the starter code provided in Module 07 of the U of U Software Development Bootcamp.
