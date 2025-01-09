@@ -17,7 +17,7 @@
 ## Usage
   This application runs in the command line with `Node.js`. Node is needed on the users machine to generate the `README.mp` file. See the installation section for a the additional packages that are needed. A recording of how the application runs in the command line is linked below.
 
-  [Application Recording] (https://drive.google.com/file/d/13GtO2xHklZNb-ZHAQbUgZiCYFy0kmVO6/view)
+  [Application Recording](https://drive.google.com/file/d/13GtO2xHklZNb-ZHAQbUgZiCYFy0kmVO6/view)
   
 ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
